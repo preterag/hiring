@@ -84,7 +84,7 @@ This requisition outlines the requirements for designing **all user-facing inter
 
 2. **Crowdfunding Model**  
    - Visualize funding progress bars (e.g., 60% = green light)
-   - Show clearly when funds are “committed” vs. deducted
+   - Show clearly when funds are "committed" vs. deducted
    - Surrealine contributions if projects are near funding completion
 
 3. **Referral and Rewards System**  
@@ -96,7 +96,7 @@ This requisition outlines the requirements for designing **all user-facing inter
    - Transaction history and the ability to withdraw earnings
 
 5. **Filmmaker Studio**  
-   - Submit film idea (“Spark”) with proof-of-concept or preview materials
+   - Submit film idea ("Spark") with proof-of-concept or preview materials
    - Monitor analytics on views, watch time, and revenue
 
 6. **Admin Dashboard**  
@@ -172,6 +172,7 @@ This requisition outlines the requirements for designing **all user-facing inter
 - Surrealine is proprietary; all design assets and documentation are strictly confidential.
 - The product designer should maintain close communication with the Surrealine team for any brand or feature adjustments.
 - User and community testing may prompt iterative updates during the design phase, so flexibility is key.
+- **This role could translate into a founding designer position with equity compensation** for the right candidate who demonstrates exceptional skills and alignment with the Surrealine vision.
 
 ---
 
